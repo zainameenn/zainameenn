@@ -1,12 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33608300/README.md)
-## Hi there 👋
-
-<!--
-**zainameenn/zainameenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<a href="https://www.zainameen.com">
+<a href="https://www.zainameen.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
@@ -145,12 +137,3 @@ Four steps. No 87 slide strategy deck.
 </p>
 
 <p align="center"><sub>Based in Lahore. Working with teams in the US, UAE and Europe.</sub></p>
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
